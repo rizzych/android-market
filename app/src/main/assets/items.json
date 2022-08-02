@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Книга",
+    "uri": "https://cdn-icons-png.flaticon.com/512/8146/8146738.png",
+    "price": 5000,
+    "category": "box"
+  },
+  {
+    "name": "Щит",
+    "uri": "https://cdn-icons-png.flaticon.com/512/8146/8146691.png",
+    "price": 2000,
+    "category": "money"
+  },
+  {
+    "name": "Геометка",
+    "uri": "https://cdn-icons-png.flaticon.com/512/8146/8146760.png",
+    "price": 1000,
+    "category": "car"
+  },
+  {
+    "name": "Ещё что-то",
+    "uri": "https://cdn-icons-png.flaticon.com/512/8146/8146723.png",
+    "price": 1500,
+    "category": "diamond"
+  }
+]
